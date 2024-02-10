@@ -7,7 +7,8 @@ public class HelloWorld
 		int b = 5;
 		int c = a + b;
 		System.out.println ("Addition of a and b =" +c);		
-		int d = a^b;
+		double d = Math.pow(a, b);
 		System.out.println("A to power b="+ d);
+		System.out.println("Bugfixes2 branch");
 	}
 }
