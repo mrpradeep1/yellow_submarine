@@ -6,6 +6,6 @@ public class HelloWorld
 		int a = 10;
 		int b = 5;
 		int c = a + b;
-		System.out.println ("Addition of a and b =" c);		
+		System.out.println ("Addition of a and b =" +c);		
 	}
 }
